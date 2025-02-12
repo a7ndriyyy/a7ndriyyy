@@ -59,38 +59,62 @@
       <img src="./images/11-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
       <br>VSCode
     </td>
+    <td align="center" width="88">
+      <img src="./images/13-figma.svg" alt="Figma" width="44" height="44"/>
+      <br>Figma
+    </td>
   </tr>
 </table>
 </div>
+
+## My hack tools :
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
     <tr>
       <td align="center" width="88">
-        <img src="https://img.shields.io/badge/ParrotOS_Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Parrot OS" width="88" height="44"/>
+        <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
+          <use href="https://img.shields.io/badge/ParrotOS_Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+        </svg>
       </td>
       <td align="center" width="88">
-        <img src="https://img.shields.io/badge/Metasploit-0096FF?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" width="88" height="44"/>
+        <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
+          <use href="https://img.shields.io/badge/Metasploit-0096FF?style=for-the-badge&logo=metasploit&logoColor=white"/>
+        </svg>
       </td>
       <td align="center" width="88">
-        <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" width="88" height="44"/>
+        <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
+          <use href="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+        </svg>
       </td>
       <td align="center" width="88">
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" width="88" height="44"/>
+        <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
+          <use href="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+        </svg>
       </td>
       <td align="center" width="88">
-        <img src="https://img.shields.io/badge/Aircrack--ng-gray?style=for-the-badge&logo=wifi&logoColor=white" alt="Aircrack-ng" width="88" height="44"/>
+        <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
+          <use href="https://img.shields.io/badge/Aircrack--ng-gray?style=for-the-badge&logo=wifi&logoColor=white"/>
+        </svg>
       </td>
       <td align="center" width="88">
-        <img src="https://img.shields.io/badge/Tor-%238A2BE2?style=for-the-badge&logo=torbrowser&logoColor=white" alt="Tor" width="88" height="44"/>
+        <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
+          <use href="https://img.shields.io/badge/Tor-%238A2BE2?style=for-the-badge&logo=torbrowser&logoColor=white"/>
+        </svg>
       </td>
       <td align="center" width="88">
-        <img src="https://img.shields.io/badge/SQLmap-FFD700?style=for-the-badge&logo=sqlite&logoColor=black" alt="SQLmap" width="88" height="44"/>
+        <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
+          <use href="https://img.shields.io/badge/SQLmap-FFD700?style=for-the-badge&logo=sqlite&logoColor=black"/>
+        </svg>
       </td>
       <td align="center" width="88">
-        <img src="https://img.shields.io/badge/John_the_Ripper-darkred?style=for-the-badge&logo=linux&logoColor=white" alt="John the Ripper" width="88" height="44"/>
+        <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
+          <use href="https://img.shields.io/badge/John_the_Ripper-darkred?style=for-the-badge&logo=linux&logoColor=white"/>
+        </svg>
       </td>
       <td align="center" width="88">
-        <img src="https://img.shields.io/badge/Hydra-darkgreen?style=for-the-badge&logo=linux&logoColor=white" alt="Hydra" width="88" height="44"/>
+        <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
+          <use href="https://img.shields.io/badge/Hydra-darkgreen?style=for-the-badge&logo=linux&logoColor=white"/>
+        </svg>
       </td>
     </tr>
   </table>
