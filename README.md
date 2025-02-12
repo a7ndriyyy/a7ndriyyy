@@ -68,7 +68,7 @@
 </div>
 
 ## My hack tools :
-<div style="display: flex; align-items: flex-start; align: center">
+<div >
   <table align="center">
     <tr>
       <td align="center" width="100">
