@@ -73,47 +73,47 @@
     <tr>
       <td align="center" width="88">
         <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
-          <use href="https://img.shields.io/badge/ParrotOS_Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+          <image href="https://img.shields.io/badge/ParrotOS_Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white" width="88" height="44"/>
         </svg>
       </td>
       <td align="center" width="88">
         <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
-          <use href="https://img.shields.io/badge/Metasploit-0096FF?style=for-the-badge&logo=metasploit&logoColor=white"/>
+          <image href="https://img.shields.io/badge/Metasploit-0096FF?style=for-the-badge&logo=metasploit&logoColor=white" width="88" height="44"/>
         </svg>
       </td>
       <td align="center" width="88">
         <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
-          <use href="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+          <image href="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" width="88" height="44"/>
         </svg>
       </td>
       <td align="center" width="88">
         <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
-          <use href="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+          <image href="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" width="88" height="44"/>
         </svg>
       </td>
       <td align="center" width="88">
         <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
-          <use href="https://img.shields.io/badge/Aircrack--ng-gray?style=for-the-badge&logo=wifi&logoColor=white"/>
+          <image href="https://img.shields.io/badge/Aircrack--ng-gray?style=for-the-badge&logo=wifi&logoColor=white" width="88" height="44"/>
         </svg>
       </td>
       <td align="center" width="88">
         <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
-          <use href="https://img.shields.io/badge/Tor-%238A2BE2?style=for-the-badge&logo=torbrowser&logoColor=white"/>
+          <image href="https://img.shields.io/badge/Tor-%238A2BE2?style=for-the-badge&logo=torbrowser&logoColor=white" width="88" height="44"/>
         </svg>
       </td>
       <td align="center" width="88">
         <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
-          <use href="https://img.shields.io/badge/SQLmap-FFD700?style=for-the-badge&logo=sqlite&logoColor=black"/>
+          <image href="https://img.shields.io/badge/SQLmap-FFD700?style=for-the-badge&logo=sqlite&logoColor=black" width="88" height="44"/>
         </svg>
       </td>
       <td align="center" width="88">
         <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
-          <use href="https://img.shields.io/badge/John_the_Ripper-darkred?style=for-the-badge&logo=linux&logoColor=white"/>
+          <image href="https://img.shields.io/badge/John_the_Ripper-darkred?style=for-the-badge&logo=linux&logoColor=white" width="88" height="44"/>
         </svg>
       </td>
       <td align="center" width="88">
         <svg xmlns="http://www.w3.org/2000/svg" width="88" height="44">
-          <use href="https://img.shields.io/badge/Hydra-darkgreen?style=for-the-badge&logo=linux&logoColor=white"/>
+          <image href="https://img.shields.io/badge/Hydra-darkgreen?style=for-the-badge&logo=linux&logoColor=white" width="88" height="44"/>
         </svg>
       </td>
     </tr>
