@@ -72,31 +72,31 @@
   <table align="center">
     <tr>
       <td align="center" width="100">
-        <img src="https://img.shields.io/badge/ParrotOS_Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white" width="100" height="50"/>
+        <img src="https://img.shields.io/badge/ParrotOS_Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white" width="100" height="60"/>
       </td>
       <td align="center" width="100">
-        <img src="https://img.shields.io/badge/Metasploit-0096FF?style=for-the-badge&logo=metasploit&logoColor=white" width="100" height="50"/>
+        <img src="https://img.shields.io/badge/Metasploit-0096FF?style=for-the-badge&logo=metasploit&logoColor=white" width="100" height="60"/>
       </td>
       <td align="center" width="100">
-        <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" width="100" height="50"/>
+        <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" width="100" height="60"/>
       </td>
       <td align="center" width="100">
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" width="100" height="50"/>
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" width="100" height="60"/>
       </td>
       <td align="center" width="100">
-        <img src="https://img.shields.io/badge/Aircrack--ng-gray?style=for-the-badge&logo=wifi&logoColor=white" width="100" height="50"/>
+        <img src="https://img.shields.io/badge/Aircrack--ng-gray?style=for-the-badge&logo=wifi&logoColor=white" width="100" height="60"/>
       </td>
       <td align="center" width="100">
-        <img src="https://img.shields.io/badge/Tor-%238A2BE2?style=for-the-badge&logo=torbrowser&logoColor=white" width="100" height="50"/>
+        <img src="https://img.shields.io/badge/Tor-%238A2BE2?style=for-the-badge&logo=torbrowser&logoColor=white" width="100" height="60"/>
       </td>
       <td align="center" width="100">
-        <img src="https://img.shields.io/badge/SQLmap-FFD700?style=for-the-badge&logo=sqlite&logoColor=black" width="100" height="50"/>
+        <img src="https://img.shields.io/badge/SQLmap-FFD700?style=for-the-badge&logo=sqlite&logoColor=black" width="100" height="60"/>
       </td>
       <td align="center" width="100">
-        <img src="https://img.shields.io/badge/John_the_Ripper-darkred?style=for-the-badge&logo=linux&logoColor=white" width="100" height="50"/>
+        <img src="https://img.shields.io/badge/John_the_Ripper-darkred?style=for-the-badge&logo=linux&logoColor=white" width="100" height="60"/>
       </td>
       <td align="center" width="100">
-        <img src="https://img.shields.io/badge/Hydra-darkgreen?style=for-the-badge&logo=linux&logoColor=white" width="100" height="50"/>
+        <img src="https://img.shields.io/badge/Hydra-darkgreen?style=for-the-badge&logo=linux&logoColor=white" width="100" height="60"/>
       </td>
     </tr>
   </table>
