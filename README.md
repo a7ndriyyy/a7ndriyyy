@@ -5,7 +5,7 @@
 
 ## Roadmap 2025 :
 📌 - **Improve:** HTML | CSS | JavaScript | React | Node.js  
-📚 - **Learn:** Ethical Hacking | React Native | Next.js
+📚 - **Learn:** Penetration Tester | React Native | Next.js
 
 ## My stack and tools :
 <div style="display: flex; align-items: flex-start; align: center">
