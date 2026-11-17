@@ -142,8 +142,8 @@ const andrii = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=a7ndriyyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7ndriyyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top langs"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a7ndriyyy&theme=tokyonight" alt="stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a7ndriyyy&theme=tokyonight" alt="top langs"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=a7ndriyyy&theme=tokyonight&hide_border=true" alt="streak"/>
